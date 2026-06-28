@@ -1,0 +1,11 @@
+tmp/
+__pycache__/
+*.pyc
+career-research-layout-check.png
+career_materials/*check*.png
+career_materials/research-*-check.png
+career_materials/render_ai/
+career_materials/render_hf/
+career_materials/*.docx
+career_materials/个人网站与简历策略.md
+career_materials/assets/farm-game-user-research-report.pptx
