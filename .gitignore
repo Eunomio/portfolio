@@ -1,6 +1,7 @@
 tmp/
 __pycache__/
 *.pyc
+build_career_materials.py
 career-research-layout-check.png
 career_materials/*check*.png
 career_materials/research-*-check.png
